@@ -322,7 +322,7 @@ class _PetScreenState extends State<PetScreen> {
 
   @override
   void dispose() {
-    _player.dispose(); // release what you created
+    _player.dispose(); 
     super.dispose();
   }
 
