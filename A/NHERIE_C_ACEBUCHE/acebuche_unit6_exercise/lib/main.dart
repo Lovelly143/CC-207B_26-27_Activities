@@ -67,20 +67,9 @@ class ProfileScreen extends StatelessWidget {
   static const _hobbies = ['Charcoal Painting', 'Drawing', 'Gardening', 'Volleyball', 'Animation'];
   static const _classes = [
     ClassSlot('Monday', '7:00-9:00 AM\nICT 106', 'CIT 213 - Human Computer Interaction 2'),
-    ClassSlot('Wednesday', '7:00-10:00 AM\nICT 306', 'CIT 213 - Human Computer Interaction 2'),
     ClassSlot('Monday', '9:00 AM-12:00 PM\nICT 307', 'CIT 246 - IT Project Management'),
-    ClassSlot('Wednesday', '10:00 AM-12:00 PM\nICT 307', 'CIT 246 - IT Project Management'),
     ClassSlot('Monday', '1:00-3:00 PM\nICT 307', 'CIT 210 - Web Systems and Technologies'),
-    ClassSlot('Wednesday', '1:00-4:00 PM\nICT 307', 'CIT 210 - Web Systems and Technologies'),
-    ClassSlot('Monday', '3:00-4:00 PM\nICT 207', 'CIT 212 - Networking 2'),
-    ClassSlot('Monday', '4:00-5:30 PM\nICT 106', 'CC 208 - Methods of Research in Computing'),
-    ClassSlot('Wednesday', '4:00-5:30 PM\nICT 106', 'CC 208 - Methods of Research in Computing'),
     ClassSlot('Tuesday', '9:00 AM-12:00 PM\nICT 307', 'CC 207B - Applications Development and Emerging Technologies'),
-    ClassSlot('Tuesday', '1:00-2:30 PM\nICT 107', 'BA 234 - Technopreneurship'),
-    ClassSlot('Tuesday', '4:00-6:00 PM\nICT 305', 'CIT 212 - Networking 2'),
-    ClassSlot('Thursday', '10:00 AM-12:00 PM\nICT 307', 'CC 207B - Applications Development and Emerging Technologies'),
-    ClassSlot('Thursday', '1:00-2:30 PM\nICT 107', 'BA 234 - Technopreneurship'),
-    ClassSlot('Thursday', '4:00-6:00 PM\nICT 305', 'CIT 212 - Networking 2'),
   ];
 
   @override
